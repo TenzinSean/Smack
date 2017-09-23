@@ -15,6 +15,7 @@
 		B4D805F71F768DB900940A0A /* SWRevealViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4D805F61F768DB900940A0A /* SWRevealViewController.m */; };
 		B4D805FC1F76903500940A0A /* ChatVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D805FB1F76903500940A0A /* ChatVC.swift */; };
 		B4D805FE1F76904800940A0A /* ChannelVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D805FD1F76904800940A0A /* ChannelVC.swift */; };
+		B4D806001F76977300940A0A /* GradientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B4D805FF1F76977300940A0A /* GradientView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B4D805F61F768DB900940A0A /* SWRevealViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SWRevealViewController.m; sourceTree = "<group>"; };
 		B4D805FB1F76903500940A0A /* ChatVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChatVC.swift; sourceTree = "<group>"; };
 		B4D805FD1F76904800940A0A /* ChannelVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChannelVC.swift; sourceTree = "<group>"; };
+		B4D805FF1F76977300940A0A /* GradientView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -110,6 +112,7 @@
 		B4D805F91F76901000940A0A /* View */ = {
 			isa = PBXGroup;
 			children = (
+				B4D805FF1F76977300940A0A /* GradientView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			files = (
 				B4D805FE1F76904800940A0A /* ChannelVC.swift in Sources */,
 				B4D805FC1F76903500940A0A /* ChatVC.swift in Sources */,
+				B4D806001F76977300940A0A /* GradientView.swift in Sources */,
 				B4D805E21F76814600940A0A /* AppDelegate.swift in Sources */,
 				B4D805F71F768DB900940A0A /* SWRevealViewController.m in Sources */,
 			);

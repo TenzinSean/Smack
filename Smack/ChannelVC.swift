@@ -17,7 +17,4 @@ class ChannelVC: UIViewController {
         
     }
 
-
-  
-
 }
