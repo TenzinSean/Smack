@@ -13,6 +13,7 @@ class ChannelVC: UIViewController {
     //Outlets
     
     @IBOutlet weak var LoginBtn: UIButton!
+    @IBAction func prepareForUnwind(segue: UIStoryboardSegue){}
    
     override func viewDidLoad() {
         super.viewDidLoad()
